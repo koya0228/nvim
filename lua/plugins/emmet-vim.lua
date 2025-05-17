@@ -1,6 +1,6 @@
 return {
   {
-    "mattn/emmet-vim"
-  }
+    "mattn/emmet-vim",
+  },
 }
 

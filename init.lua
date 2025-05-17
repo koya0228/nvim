@@ -1,12 +1,10 @@
--- Base Option Setting
+-- base option setting
 require("options")
 
--- Load Highlight Setting
+-- set my-highlight
 require("config.highlight-group")
-
--- Load Lazy
+-- load lazy
 require("config.lazy")
-
--- Base Option Setting II
-require("options2")
+-- set colorscheme
+require("config.color-scheme")
 

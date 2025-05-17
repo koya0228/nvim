@@ -7,7 +7,7 @@ return {
         "coc-css",
         "coc-html",
         "coc-pyright",
-        "coc-tsserver"
+        "coc-tsserver",
       }
     end,
   },

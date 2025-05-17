@@ -1,14 +1,17 @@
 local opt = vim.opt
 
--- 行番号の表示
+-- display line numbers
 opt.number = true
 
--- タブ・インデントの設定
+-- setting tabs and indent
 opt.tabstop = 2
 opt.shiftwidth = 2
+-- convert tabs to spaces
 opt.expandtab = true
 
+-- automatically open indent when line breaks 
 opt.autoindent = true
 
+-- color the text on the terminal
 opt.termguicolors= true
 

@@ -6,9 +6,9 @@ return {
       open_mapping = [[<c-\>]],
       direction = "float",
       float_opts = {
-        border = "curved"
-      }
-    }
-  }
+        border = "curved",
+      },
+    },
+  },
 }
 
