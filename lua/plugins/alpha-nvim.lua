@@ -16,7 +16,7 @@ return {
         "--------------------------------------------------------------------",
         "                     ©  neovim/neovim.github.io                     ",
         "====================================================================",
-      }
+      } 
       dashboard.section.header.opts.hl = {
         {{"k_dashboard_header_06", 0, 68}},
         {{"k_dashboard_header_07", 0, 68}},
@@ -31,6 +31,8 @@ return {
         {{"k_dashboard_header_00", 0, 68}},
         {{"k_dashboard_header_17", 0, 68}},
       }
+
+      dashboard.section.buttons.val = {}
 
       require"alpha".setup(dashboard.opts)
     end,
