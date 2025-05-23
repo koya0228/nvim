@@ -1,2 +1,2 @@
-vim.cmd[[ colorscheme vague ]]
+vim.cmd[[ colorscheme vscode ]]
 
