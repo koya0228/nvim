@@ -49,6 +49,8 @@ sudo apt-get install neovim
 > ```
 > </details>
 
+## GitHubからconfigをクローン
+
 ## インストールしたプラグイン
 ### プラグインマネージャー
 - **Lazy.vim**
