@@ -28,7 +28,7 @@
   "open-browser.vim": { "branch": "master", "commit": "7d4c1d8198e889d513a030b5a83faa07606bac27" },
   "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
   "poimandres.nvim": { "branch": "main", "commit": "a488957d803943a4201ac3b774913fcafa9e6b3a" },
-  "render-markdown.nvim": { "branch": "main", "commit": "ca5c29f6032338b71bdcae9b3e525d131557d363" },
+  "render-markdown.nvim": { "branch": "main", "commit": "df64d5d5432e13026a79384ec4e2bab185fd4eb5" },
   "resession.nvim": { "branch": "master", "commit": "fd08e476c4e2f826905c384a3a301a821758764b" },
   "snacks.nvim": { "branch": "main", "commit": "bc0630e43be5699bb94dadc302c0d21615421d93" },
   "telescope.nvim": { "branch": "master", "commit": "b4da76be54691e854d3e0e02c36b0245f945c2c7" },
