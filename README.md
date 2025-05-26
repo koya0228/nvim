@@ -1,6 +1,6 @@
 # NeoVim
 ## インストール
-**Neovim**([Neovim:Home]https://neovim.io/)
+**Neovim**([Neovim:Home](https://neovim.io/))\
 WindowsOS
 ```
 winget neovim.neovim
