@@ -41,3 +41,14 @@ sudo apt-get install neovim
 > scoop install goneovim-nightly
 > ```
 > </details>
+> <details>
+> <summary>macOS</summary>
+> 
+> ```
+> brew install --cask goneovim
+> ```
+> </details>
+
+## インストールしたプラグイン
+### プラグインマネージャー
+- **Lazy.vim**
