@@ -28,9 +28,16 @@ sudo apt-get install neovim
 > [!TIP]
 > **パッケージマネージャーからのインストール**
 > <details>
-> <summary>Ubuntu</summary>
+> <summary>WindowsOS</summary>
 > 
 > ```
-> sudo apt-get install neovim
+> scoop bucket add extras
+> scoop install goneovim
+> ```
+> or
+>
+> ```
+> scoop bucket add versions
+> scoop install goneovim-nightly
 > ```
 > </details>
