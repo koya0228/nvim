@@ -29,7 +29,7 @@ sudo apt-get install neovim
 > **パッケージマネージャーからのインストール**
 > <details>
 > <summary>WindowsOS</summary>
->  
+> 
 > ```
 > scoop bucket add extras
 > scoop install goneovim
