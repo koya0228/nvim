@@ -25,5 +25,12 @@ sudo apt-get install neovim
 
 ### goneovim ([GitHub:akiyosi/goneovim](https://github.com/akiyosi/goneovim))
 インストール先: [GitHubリリース](https://github.com/akiyosi/goneovim/releases)
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> [!TIP]
+> **パッケージマネージャーからのインストール**
+> <details>
+> <summary>Ubuntu</summary>
+> 
+> ```
+> sudo apt-get install neovim
+> ```
+> </details>
