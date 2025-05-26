@@ -2,7 +2,8 @@
 ## インストール
 ### Neovim ([Neovim:Home](https://neovim.io/))
 <details>
-<summary>WindowsOS</summary>\
+<summary>WindowsOS</summary>
+  
 ```
 winget neovim.neovim
 ```
@@ -22,4 +23,7 @@ sudo apt-get install neovim
 ```
 </details>
 
-**goneovim**(Neovim gui)
+### goneovim ([GitHub:akiyosi/goneovim](https://github.com/akiyosi/goneovim))
+インストール先: [GitHubリリース](https://github.com/akiyosi/goneovim/releases)
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
