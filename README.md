@@ -1,16 +1,22 @@
 # NeoVim
 ## インストール
-### Neovim ([Neovim:Home](https://neovim.io/))\
-WindowsOS
+### Neovim ([Neovim:Home](https://neovim.io/))
+<details>
+<summary>WindowsOS</summary>
 ```
 winget neovim.neovim
 ```
-macOS
+</details>
+<details>
+<summary>macOS</summary>
 ```
 $ brew install neovim
 ```
-Ubuntu
+</details>
+<details>
+<summary>Ubuntu</summary>
 ```
 sudo apt-get install neovim
 ```
+</details>
 **goneovim**(Neovim gui)
