@@ -24,7 +24,7 @@ sudo apt-get install neovim
 </details>
 
 ### goneovim ([GitHub:akiyosi/goneovim](https://github.com/akiyosi/goneovim))
-インストール先: [GitHubリリース](https://github.com/akiyosi/goneovim/releases)
+インストール元: [GitHubリリース](https://github.com/akiyosi/goneovim/releases)
 > [!TIP]
 > **パッケージマネージャーからのインストール**
 > <details>
@@ -50,6 +50,28 @@ sudo apt-get install neovim
 > </details>
 
 ## GitHubからconfigをクローン
+### 設定ファイル・スクリプト保存先
+> <details>
+> <summary>WindowsOS</summary>
+> 
+> ```
+> ~\AppData\Local\nvim\
+> ```
+> </details>
+> <details>
+> <summary>Linux/Unix</summary>
+> 
+> ```
+> ~\.config\nvim\
+> ```
+> </details>
+
+保存先がわからない場合は、下記のコマンドをNeovim内で実行
+```
+:echo $MYVIMRC
+```
+
+### このリポジトリを```nvim```ディレクトリ内にクローン
 
 ## インストールしたプラグイン
 ### プラグインマネージャー
