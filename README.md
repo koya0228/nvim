@@ -92,4 +92,49 @@ git clone https://github.com/koya0228/nvim.git "${XDG_CONFIG_HOME:-$HOME/.config
 
 ## インストールしたプラグイン
 ### プラグインマネージャー
-- **Lazy.vim**
+- **lazy.vim**
+
+### カラースキーム
+- **night-owl.nvim**
+- **vscode.nvim**
+- **yorumi.nvim**
+- **zenbones.nvim**
+
+---
+
+- **alpha-nvim**
+- **coc.nvim**
+- **diffview.nvim**
+- **emmet-vim**
+- **fzf-lua**
+- **gitsigns.nvim**
+- **lualine.nvim**
+- **lush.nvim**
+- **mini.nvim**
+- **mini.pick**
+- **neogit**
+- **noice.nvim**
+- **nord.nvim**
+- **nui.nvim**
+- **nvim-cockline**
+- **nvim-colorizer.lua**
+- **nvim-markdown**
+- **nvim-notify**
+- **nvim-treesitter**
+- **nvim-treesitter-endwise**
+- **nvim-ts-autotag**
+- **nvim-web-devicons**
+- **oil.nvim**
+- **open-browser.vim**
+- **plenary.nvim**
+- **render-markdown.nvim**
+- **resesion.nvim**
+- **snack.nvim**
+- **telescope.nvim**
+- **toggleterm.nvim**
+- **vague.nvim**
+- **vim-operator-convert-case**
+- **vim-operator-user**
+- **vim-repeat**
+- **nvim-autopairs**
+- **treesj**
