@@ -51,20 +51,20 @@ sudo apt-get install neovim
 
 ## GitHubからconfigをクローン
 ### 設定ファイル・スクリプト保存先
-> <details>
-> <summary>WindowsOS</summary>
-> 
-> ```
-> ~\AppData\Local\nvim\
-> ```
-> </details>
-> <details>
-> <summary>Linux/Unix</summary>
-> 
-> ```
-> ~\.config\nvim\
-> ```
-> </details>
+<details>
+<summary>WindowsOS</summary>
+
+```
+%localappdata%\nvim\
+```
+</details>
+<details>
+<summary>Linux/Unix</summary>
+
+```
+~\.config\nvim\
+```
+</details>
 
 保存先がわからない場合は、下記のコマンドをNeovim内で実行
 ```
@@ -72,6 +72,20 @@ sudo apt-get install neovim
 ```
 
 ### このリポジトリを```nvim```ディレクトリ内にクローン
+<details>
+<summary>WindowsOS</summary>
+
+```
+git clone https://github.com/nvim-lua/kickstart.nvim.git "%localappdata%\nvim"
+```
+</details>
+<details>
+<summary>Linux/Unix</summary>
+
+```
+~\.config\nvim\
+```
+</details>
 
 ## インストールしたプラグイン
 ### プラグインマネージャー
