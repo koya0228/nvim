@@ -59,7 +59,7 @@ sudo apt-get install neovim
 ```
 </details>
 <details>
-<summary>Linux/Unix</summary>
+<summary>Linux / macOS </summary>
 
 ```
 ~\.config\nvim\
@@ -76,16 +76,19 @@ sudo apt-get install neovim
 <summary>WindowsOS</summary>
 
 ```
-git clone https://github.com/nvim-lua/kickstart.nvim.git "%localappdata%\nvim"
+git clone https://github.com/koya0228/nvim.git "%localappdata%\nvim"
 ```
 </details>
 <details>
-<summary>Linux/Unix</summary>
+<summary>Linux / macOS</summary>
 
 ```
-~\.config\nvim\
+git clone https://github.com/koya0228/nvim.git "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 </details>
+
+> [!TIP]
+> もしくは、このリポジトリを別のリポジトリにフォークし、そのリポジトリをクローン
 
 ## インストールしたプラグイン
 ### プラグインマネージャー
