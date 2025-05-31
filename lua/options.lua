@@ -16,5 +16,5 @@ opt.autoindent = true
 opt.termguicolors= true
 
 -- font config
-vim.o.guifont = "HackGen Console NF:h14"
+vim.o.guifont = "HackGen Console NF:h12"
 
